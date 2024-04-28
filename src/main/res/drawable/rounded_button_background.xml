@@ -1,0 +1,13 @@
+<!-- rounded_button_with_image_background.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Layer 1: White background -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <corners android:radius="200dp" /> <!-- Adjust the radius as needed for the desired roundness -->
+        </shape>
+    </item>
+
+    <!-- Layer 2: Image drawable -->
+    <item android:drawable="@drawable/back" /> <!-- Replace 'back' with your image drawable -->
+</layer-list>

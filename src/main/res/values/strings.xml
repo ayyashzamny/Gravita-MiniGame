@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gravita</string>
+    <string-array name="game_level_options">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+
+</resources>
+
